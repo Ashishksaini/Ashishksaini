@@ -1,10 +1,7 @@
-# ![Profile Logo](https://via.placeholder.com/50) Welcome to My GitHub
-
 ## About Me 👋👋
 
 Hello! I'm a passionate and experienced Software Developer with a diverse skill set in modern web and backend technologies. My expertise spans across a variety of frameworks, libraries, and tools, enabling me to build robust and scalable applications.
 
-![Profile Banner](https://via.placeholder.com/800x200)
 
 ---
 
@@ -56,8 +53,7 @@ I am committed to continuous learning and exploration of new technologies to sta
 Feel free to reach out to me for any collaboration or project inquiries. I'm always open to new opportunities and challenges!
 
 **Email**: ashishksaini2001@gmail.com  
-**LinkedIn**: [[your LinkedIn profile]](https://linkedin.com/in/ashish-kumar-saini-b65a63209/)  
-**GitHub**: [your GitHub profile]
+**LinkedIn**: [[ashish-kumar-saini-b65a63209]](https://linkedin.com/in/ashish-kumar-saini-b65a63209/)  
 
 ---
 
